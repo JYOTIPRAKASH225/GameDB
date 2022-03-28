@@ -1,6 +1,6 @@
-package com.techietester.resource;
+package com.jp.resource;
 
-import com.techietester.model.VideoGame;
+import com.jp.model.VideoGame;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;

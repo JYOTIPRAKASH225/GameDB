@@ -1,6 +1,6 @@
-package com.techietester.app;
+package com.jp.app;
 
-import com.techietester.resource.VideoGameResource;
+import com.jp.resource.VideoGameResource;
 import io.swagger.jaxrs.config.BeanConfig;
 import io.swagger.jaxrs.listing.ApiListingResource;
 import org.glassfish.jersey.server.ResourceConfig;
